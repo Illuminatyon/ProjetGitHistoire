@@ -1,0 +1,121 @@
+				 _____                                                                                              _____ 
+				( ___ )                                                                                            ( ___ )
+				 |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+				 |   |  ▄▄▄        ██████  ██░ ██ ▓█████  ███▄    █      ██████  ▒█████   █    ██  ██▓      ██████  |   | 
+				 |   | ▒████▄    ▒██    ▒ ▓██░ ██▒▓█   ▀  ██ ▀█   █    ▒██    ▒ ▒██▒  ██▒ ██  ▓██▒▓██▒    ▒██    ▒  |   | 
+				 |   | ▒██  ▀█▄  ░ ▓██▄   ▒██▀▀██░▒███   ▓██  ▀█ ██▒   ░ ▓██▄   ▒██░  ██▒▓██  ▒██░▒██░    ░ ▓██▄    |   | 
+				 |   | ░██▄▄▄▄██   ▒   ██▒░▓█ ░██ ▒▓█  ▄ ▓██▒  ▐▌██▒     ▒   ██▒▒██   ██░▓▓█  ░██░▒██░      ▒   ██▒ |   | 
+				 |   |  ▓█   ▓██▒▒██████▒▒░▓█▒░██▓░▒████▒▒██░   ▓██░   ▒██████▒▒░ ████▓▒░▒▒█████▓ ░██████▒▒██████▒▒ |   | 
+				 |   |  ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░░ ▒░ ░░ ▒░   ▒ ▒    ▒ ▒▓▒ ▒ ░░ ▒░▒░▒░ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒ ▒▓▒ ▒ ░ |   | 
+				 |   |   ▒   ▒▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░ ░ ░  ░░ ░░   ░ ▒░   ░ ░▒  ░ ░  ░ ▒ ▒░ ░░▒░ ░ ░ ░ ░ ▒  ░░ ░▒  ░ ░ |   | 
+				 |   |   ░   ▒   ░  ░  ░   ░  ░░ ░   ░      ░   ░ ░    ░  ░  ░  ░ ░ ░ ▒   ░░░ ░ ░   ░ ░   ░  ░  ░   |   | 
+				 |   |       ░  ░      ░   ░  ░  ░   ░  ░         ░          ░      ░ ░     ░         ░  ░      ░   |   | 
+				 |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+				(_____)                                                                                            (_____)
+								
+								
+														Une histoire écrite par :
+														 Fabio GUERREIRO MARQUES
+															Lino COUTURIER
+														 Marius TISSOT DERBIER
+									
+									
+									
+														 ⢀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣯⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⢺⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⣧⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣿⣋⣟⠭⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣭⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⢮⣳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡿⣦⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠢⣽⣅⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⢤⣿⡇⠀⠀⠀⠀⣸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠸⣞⡇⠀⠀⠀⠀⡏⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⣿⣷⠀⠀⠀⠀⢻⡈⢣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⢸⣿⡆⠀⠀⠀⠀⢳⣬⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡈⣿⣧⠀⠀⢠⡄⣸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢹⣿⡀⠀⢸⢧⠟⢹⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠸⣿⡇⣠⠋⢾⣾⢸⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡖⠀⠸⣿⣶⣿⣷⡏⢰⡿⢿⠏⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⣴⢋⣿⣿⣿⠇⡟⠁⣏⠀⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡞⣏⢦⠇⢸⡿⢿⠋⢀⣤⣀⡘⢦⡟⢸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠃⢀⣴⡆⠀⠀⠈⣹⣿⡷⠆⠀⣧⠈⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠜⢁⡴⠋⡀⠙⢄⠀⣰⣿⣟⠓⠀⠀⢉⣴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⢰⡏⡠⠊⢀⡴⣇⠀⢀⡞⠉⠛⠀⡀⢀⣄⣩⠌⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⢣⠶⠖⠊⢀⣈⠉⣹⡷⢀⣴⡯⠔⣛⡵⠁⣠⡏⠸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⢿⠟⠀⣰⡞⠉⣿⡷⠇⠃⣠⢴⣶⣾⡋⢀⡴⣽⠁⠀⠘⣏⣀⢰⣆⠀⠀⠀⠀⠀
+												⠀⠀⠀⠀⠀⣠⣶⣶⣅⣠⣶⠀⠒⠟⢁⡴⠋⠀⠀⠀⢹⣿⣿⡋⣧⢸⡇⡏⣀⣀⠀⠙⣿⣉⠙⢤⡄⠀⠀⠀
+												⠀⠀⣠⣴⣺⢿⣿⣿⡛⠛⠿⠿⣯⣷⡲⣶⣟⣻⡀⠀⣠⣿⣿⣖⣸⣨⣿⠿⠛⣻⣿⣶⣾⣾⠇⠀⠻⣄⠀⠀
+												⠀⣾⢟⠿⠿⢶⣮⡙⢏⢢⡀⢠⡌⣿⣿⡿⠟⡿⢳⣼⣿⣿⣿⣾⣿⣧⣤⣤⣤⣿⣿⣭⣿⠁⠀⠀⣀⣈⣧⠀
+												⢺⣥⢿⠾⠿⠿⠿⡿⠚⢋⣠⠯⣿⢉⢉⠻⠾⠛⢿⣿⠻⠿⢛⢋⣤⣯⣭⠽⠶⣾⣻⢿⣻⢿⠶⢛⣻⡿⢽⠄
+
+
+													◭ Chapitre IV – À la poursuite du destin
+													
+													
+													
+													
+
+Au fur et à mesure qu'il progressait dans le territoire, le paysage devenait de plus en plus désertique, couvert de cendre. Bientôt, on ne vit au loin qu'un simple désert vide, dénué de toute vie. Une plaine lointaine, grise, sous un ciel écarlate.
+Après plusieurs jours de marche dans cet enfer aride, il vit au loin une grande cloche surplombée par un autel. Celui-ci paraissait vivant, comme s'il avait traversé le temps sans aucune difficulté. En son milieu, un socle permettant d'accueillir exactement deux pierres.
+À son pied, un squelette, avec en son sein une autre pierre. Tout indiquait qu'il fallait placer les deux dans le socle afin de faire sonner la cloche.
+
+C'est alors que le vent se leva. De grandes bourrasques enveloppèrent l'atmosphère pour un court moment avant de laisser place à...
+
+Un croassement.
+
+L'oiseau noir atterrit sur le sol gris.
+
+Ses yeux devenaient gris à vue d'œil avant de se désagréger en cendre. Guidée par une force mystique, celle-ci flotta jusqu'au squelette avant de le recouvrir. Ce fut d'abord le cœur, puis les vaisseaux sanguins, les muscles, le visage, puis la peau. La cendre se transforma en chair pour donner naissance à un humain.
+On ne pouvait distinguer s'il s'agissait d’un homme ou d’une femme. Il était vêtu d’une tunique orange braise, dissimulée en partie par ses longs cheveux gris. Il souriait. La pierre commença à battre à grand rythme, presque de manière étouffante.
+
+« Derrière moi se trouve la suite de notre destin. À la fin de notre échange, un Marqué aura éteint l'autre, et se lancera à la poursuite de son destin. Un seul aura droit à la salvation de la Cloche de Sang. »
+
+
+
+
+De la douleur.
+Vive.
+
+Il se tenait debout, difficilement. Seul dans le désert.
+Son adversaire avait fini en cendre et se mêlait désormais au paysage apocalyptique.
+Il souffrait.
+Une joue, un avant-bras, c'est ce que lui avait coûté ce combat. Il cautérisa ses plaies avec douleur avant d'avancer vers la cloche, les deux pierres en main. Il les déposa une à une sur le socle de l'autel.
+Celles-ci se mirent à léviter légèrement. Il versa ensuite le sang obtenu de la Prêtresse d'Os sur l'autel. Du sang jaillit de la base de l'autel avant de remonter sur les pierres, pour ensuite descendre vers la cloche. Elle commença à bouger, lentement mais sûrement, jusqu'à lâcher un son lourd, assourdissant mais pur.
+
+Il se sentit devenir plus léger d'un coup : un poids lui fut ôté.
+Les cendres qui recouvraient le désert ambiant se mirent à flotter. Elles volaient librement, mais avec coordination, pour transfigurer le paysage.
+On vit des bâtiments sortir de terre, des arbres grandir, des collines et des montagnes s’ériger.
+Cependant, tout cela restait gris. Il n'était pas possible de redonner vie à ce qui avait été brûlé, seulement de reconstruire une réalité factice.
+
+Suite à ce spectacle,
+il reprit sa route.
+Péniblement, mais sûrement,
+
+à la poursuite de son destin.
+
+
+                   _,--._
+                                 ,'  _.._`.
+                            ,^.,' ,-" _," ;
+                   _,----.._\|( _/,--"  ,<
+                 ,'     ____(_))< ___..".  `.
+                :  _,-"__,-" (_)-.      ,\.  \
+                :,'..-"  _,-")|(\ `._.-"_,\\  \
+                 `.__ ,-"    '-`'   \.-"   Y  :
+                 /  /:-...______...-:      |  |
+                (  ( |-...______...-'      ;  ;_
+                 \ ,\|              |     /,^/  ;._
+                  `  .              .        _,'   ;
+                     :              :    _,-'    ,"
+                     '              ` ,-'     _,"
+                    '                '    _,-"`.
+                   ;`--...______,,,--":.-"     ;
+                  :                    :  `..."
+                  '---....______,,,,---'
+                           :     ;
+                            `.,." 
