@@ -11,7 +11,7 @@ Tout ce que vous avez besoin de lire est déjà présent dans les fichiers du do
 ### Instructions de lecture :
 
 - Ouvrez simplement chaque document contenu dans le dossier.
-- L’ordre de lecture conseillé est généralement indiqué dans le nom des fichiers (par exemple : `01_Intro`, `02_Exploration`, etc.).
+- L’ordre de lecture conseillé est généralement indiqué dans le nom des fichiers (par exemple : `Chapitre_1`, `Chapitre_2`, etc.).
 - Prenez le temps de lire chaque fichier individuellement, car chaque document correspond à une section ou un chapitre de l’histoire.
 
 Aucune installation ou configuration n’est nécessaire : il vous suffit d’ouvrir les fichiers texte avec votre éditeur préféré (Notepad, VSCode, etc.).
